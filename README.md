@@ -4,7 +4,7 @@ Welcome!
 This repository showcases **my personal work** on implementing and experimenting with various machine learning algorithms.  
 Each algorithm or topic is organized into its own branch for clarity and easy navigation.
 
-I (Omar) built and structured every branch in this repository as part of my learning, research, and experimentation in machine learning and data science.
+I built and structured every branch in this repository as part of my learning, research, and experimentation in machine learning and data science.
 
 ---
 
