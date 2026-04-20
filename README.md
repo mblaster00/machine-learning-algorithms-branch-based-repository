@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Algorithms — Branch-Based Repository
+# 🧠 Machine Learning Algorithms Branch-Based Repository
 
 Welcome!  
 This repository showcases **my personal work** on implementing and experimenting with various machine learning algorithms.  
